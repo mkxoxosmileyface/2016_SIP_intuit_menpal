@@ -30,13 +30,25 @@ h2{
 
 
 .thumbnail{
-	background-color: #93dbf9;
+/* 
+	background-color: white;
+ */
+	border:1px solid #d1bd9a;
+	margin:4px 0px 4px 5px;
+	padding:4px;
+}
+
+.meditation2{
+	background-color:  #C1CCEB;
 
 }
+
 
 #meditation{
 	background-color: #C1CCEB;
 }
+
+
 
 .button{
 	background-color: transparent;
@@ -51,9 +63,9 @@ h2{
 	position: relative; 
 	 position:relative;
     transition: .5s ease;
-    top: -500px;
-    left: 700 px;
-    right: -750px;
+    top: -550px;
+    left: 750 px;
+    right: -735px;
     bottom: -191px;
 
 .button:hover {
@@ -67,4 +79,9 @@ h2{
 
 #submit{
 	font-style: italic;
+}
+
+#feelgood{
+	
+
 }
